@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void main()
+{
+  int x=1, y=2;
+  
+  printf("value of x: %d",x);
+  printf("value of y: %d",y);
+  
+  //swapping...
+   
+  printf("new value of x: %d",x);
+  printf("new value of y: %d",y);
+  
+  return 0;
+}
